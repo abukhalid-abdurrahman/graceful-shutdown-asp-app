@@ -1,9 +1,9 @@
 using System;
 using System.Threading.Tasks;
+using graceful_shutdown_asp_app.Hosts;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using NLog.Web;
@@ -42,12 +42,16 @@ namespace graceful_shutdown_asp_app
                     logging.SetMinimumLevel(LogLevel.Information);  
                 })
                 .UseNLog()
+                .ConfigureServices(services =>
+                {
+                    services.AddHostedService<HostApplicationLifeTime>();
+                })
                 .Configure(app =>
                 {
                     // An example ASP.NET Core middleware that throws an
                     // exception when serving a request to path: /throw
                     app.UseRouting();
-                    
+
                     app.UseEndpoints(endpoints =>
                     {
                         // Reported events will be grouped by route pattern
