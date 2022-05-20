@@ -1,0 +1,226 @@
+2022-05-20 11:21:48.4537 Info Message Template Auto Format enabled
+2022-05-20 11:21:48.5054 Info Adding target File Target[alldata]
+2022-05-20 11:21:48.5764 Info Adding target File Target[otherFile-web]
+2022-05-20 11:21:48.5829 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net6.0\nlog.config...
+2022-05-20 11:21:48.5989 Info Found 45 configuration items
+2022-05-20 11:23:38.9777 Info Message Template Auto Format enabled
+2022-05-20 11:23:39.0272 Info Adding target File Target[alldata]
+2022-05-20 11:23:39.0272 Info Adding target File Target[otherFile-web]
+2022-05-20 11:23:39.0371 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net6.0\nlog.config...
+2022-05-20 11:23:39.0546 Info Found 45 configuration items
+2022-05-20 11:45:55.1426 Info Message Template Auto Format enabled
+2022-05-20 11:45:55.1915 Info Adding target File Target[alldata]
+2022-05-20 11:45:55.1915 Info Adding target File Target[otherFile-web]
+2022-05-20 11:45:55.1915 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net6.0\nlog.config...
+2022-05-20 11:45:55.2185 Info Found 45 configuration items
+2022-05-20 11:49:42.1486 Info Message Template Auto Format enabled
+2022-05-20 11:49:42.1977 Info Adding target File Target[alldata]
+2022-05-20 11:49:42.1977 Info Adding target File Target[otherFile-web]
+2022-05-20 11:49:42.2066 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net6.0\nlog.config...
+2022-05-20 11:49:42.2224 Info Found 45 configuration items
+2022-05-20 15:17:56.2435 Info Message Template Auto Format enabled
+2022-05-20 15:17:56.2938 Info Adding target File Target[alldata]
+2022-05-20 15:17:56.2938 Info Adding target File Target[otherFile-web]
+2022-05-20 15:17:56.3068 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net6.0\nlog.config...
+2022-05-20 15:17:56.3217 Info Found 45 configuration items
+2022-05-20 15:18:02.6312 Info Logger closing down...
+2022-05-20 15:18:02.6312 Info Closing old configuration.
+2022-05-20 15:18:02.6312 Info Logger has been closed down.
+2022-05-20 15:18:02.6312 Info Shutting down logging...
+2022-05-20 15:18:02.6312 Info Logger has been shut down.
+2022-05-20 15:18:27.5601 Info Message Template Auto Format enabled
+2022-05-20 15:18:27.5973 Info Adding target File Target[alldata]
+2022-05-20 15:18:27.5973 Info Adding target File Target[otherFile-web]
+2022-05-20 15:18:27.5973 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net6.0\nlog.config...
+2022-05-20 15:18:27.6210 Info Found 45 configuration items
+2022-05-20 15:18:29.5330 Info Logger closing down...
+2022-05-20 15:18:29.5330 Info Closing old configuration.
+2022-05-20 15:18:29.5392 Info Logger has been closed down.
+2022-05-20 15:18:29.5392 Info Shutting down logging...
+2022-05-20 15:18:29.5392 Info Logger has been shut down.
+2022-05-20 15:18:44.0794 Info Message Template Auto Format enabled
+2022-05-20 15:18:44.1147 Info Adding target File Target[alldata]
+2022-05-20 15:18:44.1147 Info Adding target File Target[otherFile-web]
+2022-05-20 15:18:44.1147 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net6.0\nlog.config...
+2022-05-20 15:18:44.1328 Info Found 45 configuration items
+2022-05-20 15:18:46.2852 Info Logger closing down...
+2022-05-20 15:18:46.2852 Info Closing old configuration.
+2022-05-20 15:18:46.2852 Info Logger has been closed down.
+2022-05-20 15:18:46.2852 Info Shutting down logging...
+2022-05-20 15:18:46.2852 Info Logger has been shut down.
+2022-05-20 15:19:06.4863 Info Message Template Auto Format enabled
+2022-05-20 15:19:06.5220 Info Adding target File Target[alldata]
+2022-05-20 15:19:06.5220 Info Adding target File Target[otherFile-web]
+2022-05-20 15:19:06.5220 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net6.0\nlog.config...
+2022-05-20 15:19:06.5409 Info Found 45 configuration items
+2022-05-20 15:19:18.8744 Info Logger closing down...
+2022-05-20 15:19:18.8744 Info Closing old configuration.
+2022-05-20 15:19:18.8815 Info Logger has been closed down.
+2022-05-20 15:19:18.8815 Info Shutting down logging...
+2022-05-20 15:19:18.8815 Info Logger has been shut down.
+2022-05-20 15:22:48.1515 Info Message Template Auto Format enabled
+2022-05-20 15:22:48.1896 Info Adding target File Target[alldata]
+2022-05-20 15:22:48.1914 Info Adding target File Target[otherFile-web]
+2022-05-20 15:22:48.1914 Info Adding target Console Target[console]
+2022-05-20 15:22:48.1914 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net6.0\nlog.config...
+2022-05-20 15:22:48.2125 Info Found 57 configuration items
+2022-05-20 15:23:25.4448 Info Logger closing down...
+2022-05-20 15:23:25.4448 Info Closing old configuration.
+2022-05-20 15:23:25.4448 Info Logger has been closed down.
+2022-05-20 15:23:25.4448 Info Shutting down logging...
+2022-05-20 15:23:25.4448 Info Logger has been shut down.
+2022-05-20 15:25:29.9630 Info Message Template Auto Format enabled
+2022-05-20 15:25:29.9988 Info Adding target File Target[alldata]
+2022-05-20 15:25:29.9988 Info Adding target File Target[otherFile-web]
+2022-05-20 15:25:29.9988 Info Adding target Console Target[console]
+2022-05-20 15:25:30.0070 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net6.0\nlog.config...
+2022-05-20 15:25:30.0196 Info Found 57 configuration items
+2022-05-20 15:25:39.3976 Info Logger closing down...
+2022-05-20 15:25:39.3976 Info Closing old configuration.
+2022-05-20 15:25:39.3976 Info Logger has been closed down.
+2022-05-20 15:25:39.3976 Info Shutting down logging...
+2022-05-20 15:25:39.3976 Info Logger has been shut down.
+2022-05-20 15:47:02.4831 Info Message Template Auto Format enabled
+2022-05-20 15:47:02.5207 Info Adding target File Target[alldata]
+2022-05-20 15:47:02.5207 Info Adding target File Target[otherFile-web]
+2022-05-20 15:47:02.5207 Info Adding target Console Target[console]
+2022-05-20 15:47:02.5207 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net6.0\nlog.config...
+2022-05-20 15:47:02.5405 Info Found 57 configuration items
+2022-05-20 15:47:03.8787 Info Logger closing down...
+2022-05-20 15:47:03.8787 Info Closing old configuration.
+2022-05-20 15:47:03.8787 Info Logger has been closed down.
+2022-05-20 15:47:31.5510 Info Message Template Auto Format enabled
+2022-05-20 15:47:31.5927 Info Adding target File Target[alldata]
+2022-05-20 15:47:31.5927 Info Adding target File Target[otherFile-web]
+2022-05-20 15:47:31.5927 Info Adding target Console Target[console]
+2022-05-20 15:47:31.6023 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net6.0\nlog.config...
+2022-05-20 15:47:31.6151 Info Found 57 configuration items
+2022-05-20 15:50:14.8557 Info Logger closing down...
+2022-05-20 15:50:14.8557 Info Closing old configuration.
+2022-05-20 15:50:14.8557 Info Logger has been closed down.
+2022-05-20 15:50:14.8629 Info Shutting down logging...
+2022-05-20 15:50:14.8629 Info Logger has been shut down.
+2022-05-20 16:13:31.5713 Info Message Template Auto Format enabled
+2022-05-20 16:13:31.6092 Info Adding target File Target[alldata]
+2022-05-20 16:13:31.6440 Info Adding target File Target[otherFile-web]
+2022-05-20 16:13:31.6440 Info Adding target Console Target[console]
+2022-05-20 16:13:31.6440 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net5.0\nlog.config...
+2022-05-20 16:13:31.6617 Info Found 57 configuration items
+2022-05-20 16:16:14.4107 Info Message Template Auto Format enabled
+2022-05-20 16:16:14.5279 Info Adding target File Target[alldata]
+2022-05-20 16:16:14.5524 Info Adding target File Target[otherFile-web]
+2022-05-20 16:16:14.5524 Info Adding target Console Target[console]
+2022-05-20 16:16:14.5524 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net5.0\nlog.config...
+2022-05-20 16:16:14.5830 Info Found 57 configuration items
+2022-05-20 16:17:15.9446 Info Logger closing down...
+2022-05-20 16:17:15.9446 Info Closing old configuration.
+2022-05-20 16:17:15.9446 Info Logger has been closed down.
+2022-05-20 16:17:15.9446 Info Shutting down logging...
+2022-05-20 16:17:15.9446 Info Logger has been shut down.
+2022-05-20 16:17:21.3397 Info Message Template Auto Format enabled
+2022-05-20 16:17:21.4582 Info Adding target File Target[alldata]
+2022-05-20 16:17:21.4834 Info Adding target File Target[otherFile-web]
+2022-05-20 16:17:21.4834 Info Adding target Console Target[console]
+2022-05-20 16:17:21.4834 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net5.0\nlog.config...
+2022-05-20 16:17:21.5085 Info Found 57 configuration items
+2022-05-20 16:17:51.9105 Info Message Template Auto Format enabled
+2022-05-20 16:17:52.0111 Info Adding target File Target[alldata]
+2022-05-20 16:17:52.0304 Info Adding target File Target[otherFile-web]
+2022-05-20 16:17:52.0304 Info Adding target Console Target[console]
+2022-05-20 16:17:52.0346 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net5.0\nlog.config...
+2022-05-20 16:17:52.0553 Info Found 57 configuration items
+2022-05-20 16:23:18.9757 Info Message Template Auto Format enabled
+2022-05-20 16:23:19.0258 Info Adding target File Target[alldata]
+2022-05-20 16:23:19.0258 Info Adding target File Target[otherFile-web]
+2022-05-20 16:23:19.0258 Info Adding target Console Target[console]
+2022-05-20 16:23:19.0352 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net5.0\nlog.config...
+2022-05-20 16:23:19.0352 Info Found 57 configuration items
+2022-05-20 16:23:47.2149 Info Logger closing down...
+2022-05-20 16:23:47.2149 Info Closing old configuration.
+2022-05-20 16:23:47.2222 Info Logger has been closed down.
+2022-05-20 16:23:47.2222 Info Shutting down logging...
+2022-05-20 16:23:47.2222 Info Logger has been shut down.
+2022-05-20 16:29:41.4113 Info Message Template Auto Format enabled
+2022-05-20 16:29:41.4624 Info Adding target File Target[alldata]
+2022-05-20 16:29:41.4624 Info Adding target File Target[otherFile-web]
+2022-05-20 16:29:41.4624 Info Adding target Console Target[console]
+2022-05-20 16:29:41.4748 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net5.0\nlog.config...
+2022-05-20 16:29:41.4920 Info Found 57 configuration items
+2022-05-20 16:29:49.8428 Info Message Template Auto Format enabled
+2022-05-20 16:29:49.8890 Info Adding target File Target[alldata]
+2022-05-20 16:29:49.8890 Info Adding target File Target[otherFile-web]
+2022-05-20 16:29:49.8890 Info Adding target Console Target[console]
+2022-05-20 16:29:49.8964 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net5.0\nlog.config...
+2022-05-20 16:29:49.8964 Info Found 57 configuration items
+2022-05-20 16:32:24.8134 Info Logger closing down...
+2022-05-20 16:32:24.8134 Info Closing old configuration.
+2022-05-20 16:32:24.8233 Info Logger has been closed down.
+2022-05-20 16:32:24.8233 Info Shutting down logging...
+2022-05-20 16:32:24.8233 Info Logger has been shut down.
+2022-05-20 16:32:45.1339 Info Message Template Auto Format enabled
+2022-05-20 16:32:45.2485 Info Adding target File Target[alldata]
+2022-05-20 16:32:45.2653 Info Adding target File Target[otherFile-web]
+2022-05-20 16:32:45.2653 Info Adding target Console Target[console]
+2022-05-20 16:32:45.2653 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net5.0\nlog.config...
+2022-05-20 16:32:45.2877 Info Found 57 configuration items
+2022-05-20 16:35:38.3978 Info Message Template Auto Format enabled
+2022-05-20 16:35:38.4922 Info Adding target File Target[alldata]
+2022-05-20 16:35:38.5097 Info Adding target File Target[otherFile-web]
+2022-05-20 16:35:38.5097 Info Adding target Console Target[console]
+2022-05-20 16:35:38.5097 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net5.0\nlog.config...
+2022-05-20 16:35:38.5328 Info Found 57 configuration items
+2022-05-20 16:56:48.8471 Info Message Template Auto Format enabled
+2022-05-20 16:56:48.8912 Info Adding target File Target[alldata]
+2022-05-20 16:56:48.8939 Info Adding target File Target[otherFile-web]
+2022-05-20 16:56:48.8939 Info Adding target Console Target[console]
+2022-05-20 16:56:48.8939 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net5.0\nlog.config...
+2022-05-20 16:56:48.9196 Info Found 57 configuration items
+2022-05-20 16:59:42.0423 Info Logger closing down...
+2022-05-20 16:59:42.0423 Info Closing old configuration.
+2022-05-20 16:59:42.0423 Info Logger has been closed down.
+2022-05-20 16:59:42.0423 Info Shutting down logging...
+2022-05-20 16:59:42.0499 Info Logger has been shut down.
+2022-05-20 17:18:38.7806 Info Message Template Auto Format enabled
+2022-05-20 17:18:38.8183 Info Adding target File Target[alldata]
+2022-05-20 17:18:38.8183 Info Adding target File Target[otherFile-web]
+2022-05-20 17:18:38.8183 Info Adding target Console Target[console]
+2022-05-20 17:18:38.8183 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net5.0\nlog.config...
+2022-05-20 17:18:38.8405 Info Found 57 configuration items
+2022-05-20 17:18:57.6768 Info Logger closing down...
+2022-05-20 17:18:57.6768 Info Closing old configuration.
+2022-05-20 17:18:57.6977 Info Logger has been closed down.
+2022-05-20 17:18:57.6977 Info Shutting down logging...
+2022-05-20 17:18:57.6977 Info Logger has been shut down.
+2022-05-20 17:34:54.2021 Info Message Template Auto Format enabled
+2022-05-20 17:34:54.2393 Info Adding target File Target[alldata]
+2022-05-20 17:34:54.2393 Info Adding target File Target[otherFile-web]
+2022-05-20 17:34:54.2393 Info Adding target Console Target[console]
+2022-05-20 17:34:54.2393 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net5.0\nlog.config...
+2022-05-20 17:34:54.2582 Info Found 57 configuration items
+2022-05-20 17:35:02.3786 Info Logger closing down...
+2022-05-20 17:35:02.3786 Info Closing old configuration.
+2022-05-20 17:35:02.3957 Info Logger has been closed down.
+2022-05-20 17:35:02.3957 Info Shutting down logging...
+2022-05-20 17:35:02.3957 Info Logger has been shut down.
+2022-05-20 17:35:11.8556 Info Message Template Auto Format enabled
+2022-05-20 17:35:11.9039 Info Adding target File Target[alldata]
+2022-05-20 17:35:11.9039 Info Adding target File Target[otherFile-web]
+2022-05-20 17:35:11.9039 Info Adding target Console Target[console]
+2022-05-20 17:35:11.9116 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net5.0\nlog.config...
+2022-05-20 17:35:11.9282 Info Found 57 configuration items
+2022-05-20 17:35:27.7770 Info Logger closing down...
+2022-05-20 17:35:27.7770 Info Closing old configuration.
+2022-05-20 17:35:27.7856 Info Logger has been closed down.
+2022-05-20 17:35:27.7856 Info Shutting down logging...
+2022-05-20 17:35:27.7856 Info Logger has been shut down.
+2022-05-20 17:40:13.4168 Info Message Template Auto Format enabled
+2022-05-20 17:40:13.4588 Info Adding target File Target[alldata]
+2022-05-20 17:40:13.4588 Info Adding target File Target[otherFile-web]
+2022-05-20 17:40:13.4588 Info Adding target Console Target[console]
+2022-05-20 17:40:13.4588 Info Configured from an XML element in E:\Faridun's Projects\Faridun's\Back-End\ASP\graceful-shutdown-asp-app\bin\Debug\net5.0\nlog.config...
+2022-05-20 17:40:13.4884 Info Found 57 configuration items
+2022-05-20 17:40:35.5370 Info Logger closing down...
+2022-05-20 17:40:35.5370 Info Closing old configuration.
+2022-05-20 17:40:35.5370 Info Logger has been closed down.
+2022-05-20 17:40:35.5370 Info Shutting down logging...
+2022-05-20 17:40:35.5370 Info Logger has been shut down.
