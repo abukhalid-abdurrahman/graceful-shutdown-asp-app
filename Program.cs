@@ -1,7 +1,10 @@
 using System;
+using System.Linq;
 using System.Threading.Tasks;
 using graceful_shutdown_asp_app.Hosts;
+using graceful_shutdown_asp_app.Models;
 using graceful_shutdown_asp_app.Services;
+using graceful_shutdown_asp_app.Storage;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -48,6 +51,8 @@ namespace graceful_shutdown_asp_app
                 .ConfigureServices(services =>
                 {
                     services.AddSingleton<ServerStateService>();
+                    services.AddSingleton<OrderStorage>();
+                    
                     services.AddHostedService<HostApplicationLifeTime>();
                 })
                 .Configure(app =>
@@ -79,10 +84,31 @@ namespace graceful_shutdown_asp_app
                                 .GetRequiredService<ILoggerFactory>()
                                 .CreateLogger<Program>();
 
+                            var orderStorage = context.RequestServices
+                                .GetRequiredService<OrderStorage>();
+
                             log.LogInformation("Handling order request...");
                             
-                            // TODO: Do something...
-
+                            // Create new order
+                            var newOrderId = Guid.NewGuid();
+                            // Add pending order into concurrent bag
+                            orderStorage.Orders.Add(new Order()
+                            {
+                                Id = newOrderId,
+                                State = "pending"
+                            });
+                            
+                            // TODO: send request into external API
+                            
+                            var existOrder = orderStorage.Orders.FirstOrDefault(x => x.Id == newOrderId);
+                            if (existOrder == null) return Task.CompletedTask;
+                            
+                            existOrder.State = "approved";
+                            // TODO: Update in database
+                            
+                            // Remove from concurrent storage
+                            orderStorage.Orders.TryTake(out existOrder);
+                            
                             return Task.CompletedTask;
                         });
                     });
