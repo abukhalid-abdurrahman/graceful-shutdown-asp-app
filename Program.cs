@@ -61,12 +61,12 @@ namespace graceful_shutdown_asp_app
                         var serviceState = context.RequestServices
                             .GetRequiredService<ServerStateService>();
                         
-                        // if(serviceState.ApplicationState != ApplicationStateEnum.Started)
-                        // {
-                        //     context.Response.ContentType = "application/json";
-                        //     context.Response.StatusCode = 503;
-                        //     await context.Response.WriteAsync("{\"status\": \"service not available\"}");
-                        // }
+                        if(serviceState.ApplicationState != ApplicationStateEnum.Started)
+                        {
+                            context.Response.ContentType = "application/json";
+                            context.Response.StatusCode = 503;
+                            await context.Response.WriteAsync("{\"status\": \"service not available\"}");
+                        }
                         await next();
                     });
 
@@ -78,18 +78,11 @@ namespace graceful_shutdown_asp_app
                             var log = context.RequestServices
                                 .GetRequiredService<ILoggerFactory>()
                                 .CreateLogger<Program>();
-                            
-                            var serviceState = context.RequestServices
-                                .GetRequiredService<ServerStateService>();
 
                             log.LogInformation("Handling order request...");
                             
-                            if(serviceState.ApplicationState == ApplicationStateEnum.Stopping)
-                            {
-                                Task.Delay(1000).Wait();
-                                log.LogInformation("five sec");
-                            }
-                            
+                            // TODO: Do something...
+
                             return Task.CompletedTask;
                         });
                     });

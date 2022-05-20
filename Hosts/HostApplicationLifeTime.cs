@@ -43,7 +43,6 @@ namespace graceful_shutdown_asp_app.Hosts
         private void OnStopping()
         {
             _serverStateService.ApplicationStopping();
-            Task.Delay(12000).Wait();
             _logger.LogInformation($"Application State: {_serverStateService.ApplicationState}");
         }
 
